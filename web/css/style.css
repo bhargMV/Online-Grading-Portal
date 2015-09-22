@@ -1,0 +1,73 @@
+body {
+	width:			1024px;
+	margin:			0px auto;
+}
+
+h1 {
+	font-size:		1.8em;
+	font-weight:		normal;
+	width:			100%;
+	text-align:		center;
+}
+
+#loginbox {
+	width:			100%;
+	margin:			0px;
+}
+
+h1 img {
+	width:			100px;
+	height:			100px;
+}
+
+h1 span {
+	position:		relative;
+	top:			-40px;
+}
+
+h2 {
+	text-align:		center;
+	font-size:		1.2em;
+	width:			60%;
+	margin:			0px 20%;
+	//margin-left:		40%;
+	background-color:	#abdcff;
+	padding:		10px;
+	color:			#000;
+	font-weight:		normal;
+	border-radius:		8px 8px 0px 0px;
+}
+
+form {
+	width:			80%;
+	border:			0px;
+	text-align:		center;
+	margin:			0px 10%;
+	//margin-left:		25%;
+	background-color:	#abdcff;
+	border-radius:		8px;
+}
+
+table td{
+	width:			50%;
+	padding:		5px 10px;
+}
+
+table #firstRow td {
+	padding-top:		30px;
+}
+
+table #buttonRow td {
+	padding:		40px 10px 30px 10px;
+}
+
+.msg {
+	width:			100%;
+	font-size:		0.75em;
+	text-align:		center;
+}
+
+#msg1 {
+	color:			#ff0000;
+        color:                  #3D0FAB;
+}
